@@ -1,0 +1,89 @@
+HIRTHEESH VJ
+AI/ML Developer
+# hirtheeshvj.23aid@kongu.edu
+—
+§ Hirtheesh1
+—
+ï hirtheesh
+—
+Ð Leetcode: hirtheesh
+Professional Summary
+AI & Data Science student with strong expertise in Ma-
+Kongu Engineering College, Erode
+B.Tech – Artificial Intelligence and Data Science
+2023 – 2027
+CGPA: 7.30/10
+Velammal Vidyalaya, Karur
+12th (CS-Maths): 75.3%
+2023
+10th: 85.6%
+2021
+Technical Skills
+Programming: Python, C, Java, JavaScript
+AI/ML: TensorFlow, Keras, Scikit-learn, LSTM, XG-
+Boost
+Data Tools: Pandas, NumPy, Matplotlib, Seaborn, TF-
+IDF
+Web: React, Node.js, Next.js, FastAPI, Streamlit
+Databases: MongoDB, MySQL
+Tools: Git, GitHub, Linux
+Certifications
+• NPTEL – Design & Implementation of Human Com-
+Core Strengths
+Projects
+• Stack: React, Next.js, Node.js, FastAPI, MongoDB.
+Fake News Detection using Machine Learning
+accuracy.
+• Applied TF-IDF vectorization and ensemble models
+(Random Forest, Gradient Boosting).
+• Performed evaluation using confusion matrix and
+cross-validation.
+Epileptic Seizure Detection using LSTM
+• Designed deep learning model for EEG time-series
+classification.
+• Achieved 98% accuracy using Sequential LSTM ar-
+chitecture.
+• Applied signal preprocessing and feature scaling tech-
+niques.
+Internships & Experience
+sions.
+Tata GenAI Powered Data Analytics Internship
+(2025)
+• Conducted exploratory data analysis and risk profil-
+ing.
+• Developed ML models for delinquency prediction.
+• Designed AI-driven reporting strategies.
+Areas of Interest
+Deep Learning
+(2025)
+Prophet and XGBoost (1–30 day predictions).
+workflows.
+ports.
+FarmWise – AI Crop Price Predictor & Marketplace
+• Built AI-driven crop price forecasting system using
+• Designed farmer-buyer marketplace with negotiation
+• Integrated WhatsApp/SMS alerts via Twilio API.
+• Developed NLP classification pipeline achieving 99%
+Tata Data Visualization Virtual Internship
+• Built business dashboards and visual analytics re-
+• Applied storytelling techniques for data-driven deci-
+Machine Learning
+Backend Engineering
+Automation
+Linux Systems
+Data Science
+fessional
+fessional
+puter Interfaces
+chine Learning, Deep Learning, and Backend Devel-
+opment. Experienced in building scalable AI solutions,
+predictive models, and full-stack applications with mea-
+surable performance improvements.
+• Oracle Cloud Infrastructure 2025 – Data Science Pro-
+• Oracle Cloud Infrastructure 2025 – Generative AI Pro-
+• Machine Learning model building and optimization
+• REST API development and backend architecture
+• Data preprocessing, feature engineering and EDA
+• Strong analytical thinking and teamwork
+Education
+
