@@ -3,16 +3,22 @@ import './Projects.css';
 const Projects = () => {
   const projects = [
     {
+      title: 'Codevoice (Voice Controlled IDE)',
+      description: 'A cutting-edge, voice-controlled IDE designed for individuals with motor disabilities. Features real-time voice-to-code conversion, AI-powered code generation, and specialized accessibility controls.',
+      tech: ['React', 'Python', 'Web Speech API', 'Google Gemini API'],
+      links: { github: 'https://github.com/Hirtheesh1/codevoice' }
+    },
+    {
       title: 'Fake News Detection using ML',
       description: 'Developed an NLP classification pipeline achieving 99% accuracy. Applied TF-IDF vectorization and ensemble models (Random Forest, Gradient Boosting). Performed comprehensive evaluation using confusion matrices and cross-validation.',
       tech: ['Python', 'Scikit-learn', 'TF-IDF', 'Ensemble Models'],
-      links: { github: '#' }
+      links: { github: 'https://github.com/Hirtheesh1/ML_Project' }
     },
     {
       title: 'Epileptic Seizure Detection using LSTM',
       description: 'Designed a deep learning model for EEG time-series classification. Achieved 98% accuracy using a Sequential LSTM architecture, applying advanced signal preprocessing and feature scaling techniques.',
       tech: ['TensorFlow/Keras', 'LSTM', 'Python', 'Signal Processing'],
-      links: { github: '#' }
+      links: { github: 'https://github.com/Hirtheesh1/DL_Project' }
     },
     {
       title: 'Resume AI (Portfolio Generator)',
