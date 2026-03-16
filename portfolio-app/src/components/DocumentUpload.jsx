@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import './DocumentUpload.css';
 
-const API_URL = 'http://localhost:3000';
+const API_URL = 'https://portfolio-1-utvd.onrender.com';
 
 const DocumentUpload = ({ onClose }) => {
   const [documents, setDocuments] = useState([]);
