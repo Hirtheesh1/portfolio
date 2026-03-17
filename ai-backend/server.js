@@ -37,7 +37,7 @@ AI & Data Science student with strong expertise in Machine Learning, Deep Learni
 
 === EDUCATION ===
 - B.Tech in Artificial Intelligence and Data Science
-  Kongu Engineering College, Erode | 2023–2027 | CGPA: 7.30/10
+  Kongu Engineering College, Erode | 2023–2027 | CGPA: 7.17/10
 - 12th (CS-Maths): 75.3% | Velammal Vidyalaya, Karur | 2023
 - 10th: 85.6% | Velammal Vidyalaya, Karur | 2021
 
@@ -132,6 +132,10 @@ Tools: Git, GitHub, Linux, Docker
 17. DAA (Design and Analysis of Algorithms)
     - Java implementations of DSA algorithms
     - GitHub: https://github.com/Hirtheesh1/DAA
+
+18. VoiceControlled IDE
+    - Voice-controlled IDE that enables hands-free coding with speech-to-text, AI-powered code generation, auto-scroll, and real-time feedback for people with motor disabilities.
+    - Tech Stack: Python, FastAPI, Whisper, Groq, MongoDB, React
 
 === INTERNSHIPS & EXPERIENCE ===
 1. Tata GenAI Powered Data Analytics Virtual Internship (2025)
