@@ -9,7 +9,7 @@ import pdfParse from 'pdf-parse/lib/pdf-parse.js'
 import officeParser from 'officeparser'
 import { promisify } from 'util'
 
-const parseOffice = promisify(officeParser.parseOffice)
+const parseOffice = officeParser.parseOffice; 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DOCS_DIR = path.join(__dirname, 'documents')
 
