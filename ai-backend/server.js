@@ -18,7 +18,8 @@ const groq = new Groq({ apiKey: process.env.GROQ_API_KEY })
 
 app.use(express.json())
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:4173', 'http://localhost:3001','https://hirtheesh-portfolio.vercel.app', 'https://portfolio-1-utvd.onrender.com'],
+  // origin: ['http://localhost:5173', 'http://localhost:4173', 'http://localhost:3001','https://hirtheesh-portfolio.vercel.app', 'https://portfolio-1-utvd.onrender.com'],
+  origin: '*',
   methods: ['GET', 'POST', 'DELETE'],
 }))
 
